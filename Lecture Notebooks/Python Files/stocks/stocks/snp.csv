@@ -1,0 +1,505 @@
+date_added,hq,name,sector,symbol
+,,,,
+1957-03-04,"Saint Paul, Minnesota",3M,Industrials,MMM
+2017-07-26,"Milwaukee, Wisconsin",A. O. Smith,Industrials,AOS
+1957-03-04,"North Chicago, Illinois",Abbott Laboratories,Health Care,ABT
+2012-12-31,"North Chicago, Illinois",AbbVie,Health Care,ABBV
+2011-07-06,"Dublin, Ireland",Accenture,Information Technology,ACN
+1997-05-05,"San Jose, California",Adobe Inc.,Information Technology,ADBE
+2017-03-20,"Santa Clara, California",Advanced Micro Devices,Information Technology,AMD
+1998-10-02,"Arlington, Virginia",AES Corporation,Utilities,AES
+1999-05-28,"Columbus, Georgia",Aflac,Financials,AFL
+2000-06-05,"Santa Clara, California",Agilent Technologies,Health Care,A
+1985-04-30,"Upper Macungie Township, Pennsylvania",Air Products,Materials,APD
+2023-09-18,"San Francisco, California",Airbnb,Consumer Discretionary,ABNB
+2007-07-12,"Cambridge, Massachusetts",Akamai Technologies,Information Technology,AKAM
+2016-07-01,"Charlotte, North Carolina",Albemarle Corporation,Materials,ALB
+2017-03-20,"Pasadena, California",Alexandria Real Estate Equities,Real Estate,ARE
+2017-06-19,"Tempe, Arizona",Align Technology,Health Care,ALGN
+2013-12-02,"Dublin, Ireland",Allegion,Industrials,ALLE
+2016-07-01,"Madison, Wisconsin",Alliant Energy,Utilities,LNT
+1995-07-13,"Northbrook, Illinois",Allstate,Financials,ALL
+2014-04-03,"Mountain View, California",Alphabet Inc.,Communication Services,GOOGL
+2006-04-03,"Mountain View, California",Alphabet Inc.,Communication Services,GOOG
+1957-03-04,"Richmond, Virginia",Altria,Consumer Staples,MO
+2005-11-18,"Seattle, Washington",Amazon,Consumer Discretionary,AMZN
+2019-06-07,Warmley,Amcor,Materials,AMCR
+1991-09-19,"St. Louis, Missouri",Ameren,Utilities,AEE
+1957-03-04,"Columbus, Ohio",American Electric Power,Utilities,AEP
+1976-06-30,"New York City, New York",American Express,Financials,AXP
+1980-03-31,"New York City, New York",American International Group,Financials,AIG
+2007-11-19,"Boston, Massachusetts",American Tower,Real Estate,AMT
+2016-03-04,"Camden, New Jersey",American Water Works,Utilities,AWK
+2005-10-03,"Minneapolis, Minnesota",Ameriprise Financial,Financials,AMP
+2013-09-23,"Berwyn, Pennsylvania",Ametek,Industrials,AME
+1992-01-02,"Thousand Oaks, California",Amgen,Health Care,AMGN
+2008-09-30,"Wallingford, Connecticut",Amphenol,Information Technology,APH
+1999-10-12,"Wilmington, Massachusetts",Analog Devices,Information Technology,ADI
+2017-06-19,"Canonsburg, Pennsylvania",Ansys,Information Technology,ANSS
+1996-04-23,"London, UK",Aon,Financials,AON
+1997-07-28,"Houston, Texas",APA Corporation,Energy,APA
+2024-12-23,"New York City, New York",Apollo Global Management,Financials,APO
+1982-11-30,"Cupertino, California",Apple Inc.,Information Technology,AAPL
+1995-03-16,"Santa Clara, California",Applied Materials,Information Technology,AMAT
+2012-12-24,"Dublin, Ireland",Aptiv,Consumer Discretionary,APTV
+2022-11-01,"Hamilton, Bermuda",Arch Capital Group,Financials,ACGL
+1957-03-04,"Chicago, Illinois",Archer Daniels Midland,Consumer Staples,ADM
+2018-08-28,"Santa Clara, California",Arista Networks,Information Technology,ANET
+2016-05-31,"Rolling Meadows, Illinois",Arthur J. Gallagher & Co.,Financials,AJG
+2007-04-10,"Atlanta, Georgia",Assurant,Financials,AIZ
+1983-11-30,"Dallas, Texas",AT&T,Communication Services,T
+2019-02-15,"Dallas, Texas",Atmos Energy,Utilities,ATO
+1989-12-01,"San Francisco, California",Autodesk,Information Technology,ADSK
+1981-03-31,"Roseland, New Jersey",Automatic Data Processing,Industrials,ADP
+1997-01-02,"Memphis, Tennessee",AutoZone,Consumer Discretionary,AZO
+2007-01-10,"Arlington, Virginia",AvalonBay Communities,Real Estate,AVB
+1987-12-31,"Mentor, Ohio",Avery Dennison,Materials,AVY
+2023-05-04,"Scottsdale, Arizona",Axon Enterprise,Industrials,AXON
+2017-07-07,"Houston, Texas",Baker Hughes,Energy,BKR
+1984-10-31,"Broomfield, Colorado",Ball Corporation,Materials,BALL
+1976-06-30,"Charlotte, North Carolina",Bank of America,Financials,BAC
+1972-09-30,"Deerfield, Illinois",Baxter International,Health Care,BAX
+1972-09-30,"Franklin Lakes, New Jersey",Becton Dickinson,Health Care,BDX
+2010-02-16,"Omaha, Nebraska",Berkshire Hathaway,Financials,BRK.B
+1999-06-29,"Richfield, Minnesota",Best Buy,Consumer Discretionary,BBY
+2021-08-30,"Minneapolis, Minnesota",Bio-Techne,Health Care,TECH
+2003-11-13,"Cambridge, Massachusetts",Biogen,Health Care,BIIB
+2011-04-04,"New York City, New York",BlackRock,Financials,BLK
+2023-09-18,"New York City, New York",Blackstone Inc.,Financials,BX
+1995-03-31,"New York City, New York",BNY Mellon,Financials,BK
+1957-03-04,"Arlington, Virginia",Boeing,Industrials,BA
+2009-11-06,"Norwalk, Connecticut",Booking Holdings,Consumer Discretionary,BKNG
+2011-12-19,"Auburn Hills, Michigan",BorgWarner,Consumer Discretionary,BWA
+1995-02-24,"Marlborough, Massachusetts",Boston Scientific,Health Care,BSX
+1957-03-04,"New York City, New York",Bristol Myers Squibb,Health Care,BMY
+2014-05-08,"Palo Alto, California",Broadcom,Information Technology,AVGO
+2018-06-18,"Lake Success, New York",Broadridge Financial Solutions,Industrials,BR
+2021-09-20,"Daytona Beach, Florida",Brown & Brown,Financials,BRO
+1982-10-31,"Louisville, Kentucky",Brown–Forman,Consumer Staples,BF.B
+2023-12-18,"Irving, Texas",Builders FirstSource,Industrials,BLDR
+2023-03-15,"Chesterfield, Missouri",Bunge Global,Consumer Staples,BG
+2006-04-03,"Boston, Massachusetts","BXP, Inc.",Real Estate,BXP
+2007-03-02,"Eden Prairie, Minnesota",C.H. Robinson,Industrials,CHRW
+2017-09-18,"San Jose, California",Cadence Design Systems,Information Technology,CDNS
+2021-03-22,"Reno, Nevada",Caesars Entertainment,Consumer Discretionary,CZR
+2022-04-04,"Houston, Texas",Camden Property Trust,Real Estate,CPT
+1957-03-04,"Camden, New Jersey",Campbell Soup Company,Consumer Staples,CPB
+1998-07-01,"Tysons Corner, Virginia",Capital One,Financials,COF
+1997-05-27,"Dublin, Ohio",Cardinal Health,Health Care,CAH
+2010-06-28,"Richmond, Virginia",CarMax,Consumer Discretionary,KMX
+1998-12-22,"Miami, Florida",Carnival,Consumer Discretionary,CCL
+2020-04-03,"Palm Beach Gardens, Florida",Carrier Global,Industrials,CARR
+1957-03-04,"Irving, Texas",Caterpillar Inc.,Industrials,CAT
+2017-03-01,"Chicago, Illinois",Cboe Global Markets,Financials,CBOE
+2006-11-10,"Dallas, Texas",CBRE Group,Real Estate,CBRE
+2019-09-23,"Vernon Hills, Illinois",CDW,Information Technology,CDW
+2018-12-24,"Irving, Texas",Celanese,Materials,CE
+2001-08-30,"Conshohocken, Pennsylvania",Cencora,Health Care,COR
+2016-03-30,"St. Louis, Missouri",Centene Corporation,Health Care,CNC
+1985-07-31,"Houston, Texas",CenterPoint Energy,Utilities,CNP
+2008-08-27,"Deerfield, Illinois",CF Industries,Materials,CF
+2021-05-14,"Wilmington, Massachusetts",Charles River Laboratories,Health Care,CRL
+1997-06-02,"Westlake, Texas",Charles Schwab Corporation,Financials,SCHW
+2016-09-08,"Stamford, Connecticut",Charter Communications,Communication Services,CHTR
+1957-03-04,"San Ramon, California",Chevron Corporation,Energy,CVX
+2011-04-28,"Newport Beach, California",Chipotle Mexican Grill,Consumer Discretionary,CMG
+2010-07-15,"Zurich, Switzerland",Chubb Limited,Financials,CB
+2015-12-29,"Ewing, New Jersey",Church & Dwight,Consumer Staples,CHD
+1976-06-30,"Bloomfield, Connecticut",Cigna,Health Care,CI
+1997-12-18,"Fairfield, Ohio",Cincinnati Financial,Financials,CINF
+2001-03-01,"Mason, Ohio",Cintas,Industrials,CTAS
+1993-12-01,"San Jose, California",Cisco,Information Technology,CSCO
+1988-05-31,"New York City, New York",Citigroup,Financials,C
+2016-01-29,"Providence, Rhode Island",Citizens Financial Group,Financials,CFG
+1969-03-31,"Oakland, California",Clorox,Consumer Staples,CLX
+2006-08-11,"Chicago, Illinois",CME Group,Financials,CME
+1957-03-04,"Jackson, Michigan",CMS Energy,Utilities,CMS
+1957-03-04,"Atlanta, Georgia",Coca-Cola Company (The),Consumer Staples,KO
+2006-11-17,"Teaneck, New Jersey",Cognizant,Information Technology,CTSH
+1957-03-04,"New York City, New York",Colgate-Palmolive,Consumer Staples,CL
+2002-11-19,"Philadelphia, Pennsylvania",Comcast,Communication Services,CMCSA
+1983-08-31,"Chicago, Illinois",Conagra Brands,Consumer Staples,CAG
+1957-03-04,"Houston, Texas",ConocoPhillips,Energy,COP
+1957-03-04,"New York City, New York",Consolidated Edison,Utilities,ED
+2005-07-01,"Rochester, New York",Constellation Brands,Consumer Staples,STZ
+2022-02-02,"Baltimore, Maryland",Constellation Energy,Utilities,CEG
+2016-09-23,"San Ramon, California",Cooper Companies (The),Health Care,COO
+2018-07-02,"Dallas, Texas",Copart,Industrials,CPRT
+1995-02-27,"Corning, New York",Corning Inc.,Information Technology,GLW
+2018-06-20,"Atlanta, Georgia",Corpay,Financials,CPAY
+2019-06-03,"Indianapolis, Indiana",Corteva,Materials,CTVA
+2022-09-19,"Washington, D.C.",CoStar Group,Real Estate,CSGP
+1993-10-01,"Issaquah, Washington",Costco,Consumer Staples,COST
+2008-06-23,"Houston, Texas",Coterra,Energy,CTRA
+2024-06-24,"Austin, Texas",CrowdStrike,Information Technology,CRWD
+2012-03-14,"Houston, Texas",Crown Castle,Real Estate,CCI
+1957-03-04,"Jacksonville, Florida",CSX Corporation,Industrials,CSX
+1965-03-31,"Columbus, Indiana",Cummins,Industrials,CMI
+1957-03-04,"Woonsocket, Rhode Island",CVS Health,Health Care,CVS
+1998-11-18,"Washington, D.C.",Danaher Corporation,Health Care,DHR
+1995-05-31,"Orlando, Florida",Darden Restaurants,Consumer Discretionary,DRI
+2008-07-31,"Denver, Colorado",DaVita,Health Care,DVA
+2021-09-20,"Minneapolis, Minnesota",Dayforce,Industrials,DAY
+2024-03-18,"Goleta, California",Deckers Brands,Consumer Discretionary,DECK
+1957-03-04,"Moline, Illinois",Deere & Company,Industrials,DE
+2024-09-23,"Round Rock, Texas",Dell Technologies,Information Technology,DELL
+2013-09-11,"Atlanta, Georgia",Delta Air Lines,Industrials,DAL
+2000-08-30,"Oklahoma City, Oklahoma",Devon Energy,Energy,DVN
+2020-05-12,"San Diego, California",Dexcom,Health Care,DXCM
+2018-12-03,"Midland, Texas",Diamondback Energy,Energy,FANG
+2016-05-18,"Austin, Texas",Digital Realty,Real Estate,DLR
+2007-07-02,"Riverwoods, Illinois",Discover Financial,Financials,DFS
+2012-12-03,"Goodlettsville, Tennessee",Dollar General,Consumer Staples,DG
+2011-12-19,"Chesapeake, Virginia",Dollar Tree,Consumer Staples,DLTR
+2016-11-30,"Richmond, Virginia",Dominion Energy,Utilities,D
+2020-05-12,"Ann Arbor, Michigan",Domino's,Consumer Discretionary,DPZ
+1985-10-31,"Downers Grove, Illinois",Dover Corporation,Industrials,DOV
+2019-04-01,"Midland, Michigan",Dow Inc.,Materials,DOW
+2005-06-22,"Arlington, Texas",D. R. Horton,Consumer Discretionary,DHI
+1957-03-04,"Detroit, Michigan",DTE Energy,Utilities,DTE
+1976-06-30,"Charlotte, North Carolina",Duke Energy,Utilities,DUK
+2019-04-02,"Wilmington, Delaware",DuPont,Materials,DD
+1994-01-01,"Kingsport, Tennessee",Eastman Chemical Company,Materials,EMN
+1957-03-04,"Dublin, Ireland",Eaton Corporation,Industrials,ETN
+2002-07-22,"San Jose, California",eBay,Consumer Discretionary,EBAY
+1989-01-31,"Saint Paul, Minnesota",Ecolab,Materials,ECL
+1957-03-04,"Rosemead, California",Edison International,Utilities,EIX
+2011-04-01,"Irvine, California",Edwards Lifesciences,Health Care,EW
+2002-07-22,"Redwood City, California",Electronic Arts,Communication Services,EA
+2002-07-25,"Indianapolis, Indiana",Elevance Health,Health Care,ELV
+1965-03-31,"Ferguson, Missouri",Emerson Electric,Industrials,EMR
+2021-01-07,"Fremont, California",Enphase Energy,Information Technology,ENPH
+1957-03-04,"New Orleans, Louisiana",Entergy,Utilities,ETR
+2000-11-02,"Houston, Texas",EOG Resources,Energy,EOG
+2021-12-14,"Newtown, Pennsylvania",EPAM Systems,Information Technology,EPAM
+2022-10-03,"Pittsburgh, Pennsylvania",EQT Corporation,Energy,EQT
+1997-06-19,"Atlanta, Georgia",Equifax,Industrials,EFX
+2015-03-20,"Redwood City, California",Equinix,Real Estate,EQIX
+2001-12-03,"Chicago, Illinois",Equity Residential,Real Estate,EQR
+2024-09-23,"Erie, Pennsylvania",Erie Indemnity,Financials,ERIE
+2014-04-02,"San Mateo, California",Essex Property Trust,Real Estate,ESS
+2006-01-05,"New York City, New York",Estée Lauder Companies (The),Consumer Staples,EL
+2017-06-19,"Hamilton, Bermuda",Everest Group,Financials,EG
+2018-06-05,"Kansas City, Missouri",Evergy,Utilities,EVRG
+2009-07-24,"Hartford, Connecticut",Eversource Energy,Utilities,ES
+1957-03-04,"Chicago, Illinois",Exelon,Utilities,EXC
+2007-10-02,"Seattle, Washington",Expedia Group,Consumer Discretionary,EXPE
+2007-10-10,"Seattle, Washington",Expeditors International,Industrials,EXPD
+2016-01-19,"Salt Lake City, Utah",Extra Space Storage,Real Estate,EXR
+1957-03-04,"Irving, Texas",ExxonMobil,Energy,XOM
+2010-12-20,"Seattle, Washington","F5, Inc.",Information Technology,FFIV
+2021-12-20,"Norwalk, Connecticut",FactSet,Financials,FDS
+2023-03-20,"Bozeman, Montana",Fair Isaac,Information Technology,FICO
+2008-09-15,"Winona, Minnesota",Fastenal,Industrials,FAST
+2016-02-01,"Rockville, Maryland",Federal Realty Investment Trust,Real Estate,FRT
+1980-12-31,"Memphis, Tennessee",FedEx,Industrials,FDX
+2006-11-10,"Jacksonville, Florida",Fidelity National Information Services,Financials,FIS
+1996-03-29,"Cincinnati, Ohio",Fifth Third Bancorp,Financials,FITB
+2022-12-19,"Tempe, Arizona",First Solar,Information Technology,FSLR
+1997-11-28,"Akron, Ohio",FirstEnergy,Utilities,FE
+2001-04-02,"Brookfield, Wisconsin",Fiserv,Financials,FI
+2009-08-19,"Philadelphia, Pennsylvania",FMC Corporation,Materials,FMC
+1957-03-04,"Dearborn, Michigan",Ford Motor Company,Consumer Discretionary,F
+2018-10-11,"Sunnyvale, California",Fortinet,Information Technology,FTNT
+2016-07-01,"Everett, Washington",Fortive,Industrials,FTV
+2019-03-04,"New York City, New York",Fox Corporation,Communication Services,FOXA
+2019-03-04,"New York City, New York",Fox Corporation,Communication Services,FOX
+1998-04-30,"San Mateo, California",Franklin Resources,Financials,BEN
+2011-07-01,"Phoenix, Arizona",Freeport-McMoRan,Materials,FCX
+2012-12-12,"Schaffhausen, Switzerland",Garmin,Consumer Discretionary,GRMN
+2017-04-05,"Stamford, Connecticut",Gartner,Information Technology,IT
+1957-03-04,"Evendale, Ohio",GE Aerospace,Industrials,GE
+2023-01-04,"Chicago, Illinois",GE HealthCare,Health Care,GEHC
+2024-04-02,"Cambridge, Massachusetts",GE Vernova,Industrials,GEV
+2003-03-25,"Tempe, Arizona",Gen Digital,Information Technology,GEN
+2021-03-22,"Waukesha, Wisconsin",Generac,Industrials,GNRC
+1957-03-04,"Falls Church, Virginia",General Dynamics,Industrials,GD
+1957-03-04,"Golden Valley, Minnesota",General Mills,Consumer Staples,GIS
+2013-06-06,"Detroit, Michigan",General Motors,Consumer Discretionary,GM
+1973-12-31,"Atlanta, Georgia",Genuine Parts Company,Consumer Discretionary,GPC
+2004-07-01,"Foster City, California",Gilead Sciences,Health Care,GILD
+2016-04-25,"Atlanta, Georgia",Global Payments,Financials,GPN
+1989-04-30,"McKinney, Texas",Globe Life,Financials,GL
+2024-06-24,"Tempe, Arizona",GoDaddy,Information Technology,GDDY
+2002-07-22,"New York City, New York",Goldman Sachs,Financials,GS
+1957-03-04,"Houston, Texas",Halliburton,Energy,HAL
+1957-03-04,"Hartford, Connecticut",Hartford (The),Financials,HIG
+1984-09-30,"Pawtucket, Rhode Island",Hasbro,Consumer Discretionary,HAS
+2015-01-27,"Nashville, Tennessee",HCA Healthcare,Health Care,HCA
+2008-03-31,"Denver, Colorado",Healthpeak Properties,Real Estate,DOC
+2015-03-17,"Melville, New York",Henry Schein,Health Care,HSIC
+1957-03-04,"Hershey, Pennsylvania",Hershey Company (The),Consumer Staples,HSY
+1984-05-31,"New York City, New York",Hess Corporation,Energy,HES
+2015-11-02,"Houston, Texas",Hewlett Packard Enterprise,Information Technology,HPE
+2017-06-19,"Tysons Corner, Virginia",Hilton Worldwide,Consumer Discretionary,HLT
+2016-03-30,"Marlborough, Massachusetts",Hologic,Health Care,HOLX
+1988-03-31,"Atlanta, Georgia",Home Depot (The),Consumer Discretionary,HD
+1957-03-04,"Charlotte, North Carolina",Honeywell,Industrials,HON
+2009-03-04,"Austin, Minnesota",Hormel Foods,Consumer Staples,HRL
+2007-03-20,"Bethesda, Maryland",Host Hotels & Resorts,Real Estate,HST
+2016-10-21,"Pittsburgh, Pennsylvania",Howmet Aerospace,Industrials,HWM
+1974-12-31,"Palo Alto, California",HP Inc.,Information Technology,HPQ
+2023-10-18,"Shelton, Connecticut",Hubbell Incorporated,Industrials,HUBB
+2012-12-10,"Louisville, Kentucky",Humana,Health Care,HUM
+1997-08-28,"Columbus, Ohio",Huntington Bancshares,Financials,HBAN
+2018-01-03,"Newport News, Virginia",Huntington Ingalls Industries,Industrials,HII
+1957-03-04,"Armonk, New York",IBM,Information Technology,IBM
+2019-08-09,"Lake Forest, Illinois",IDEX Corporation,Industrials,IEX
+2017-01-05,"Westbrook, Maine",Idexx Laboratories,Health Care,IDXX
+1986-02-28,"Glenview, Illinois",Illinois Tool Works,Industrials,ITW
+2017-02-28,"Wilmington, Delaware",Incyte,Health Care,INCY
+2020-03-03,"Davidson, North Carolina",Ingersoll Rand,Industrials,IR
+2023-03-15,"Acton, Massachusetts",Insulet Corporation,Health Care,PODD
+1976-12-31,"Santa Clara, California",Intel,Information Technology,INTC
+2007-09-26,"Atlanta, Georgia",Intercontinental Exchange,Financials,ICE
+1976-03-31,"New York City, New York",International Flavors & Fragrances,Materials,IFF
+1957-03-04,"Memphis, Tennessee",International Paper,Materials,IP
+1992-10-01,"New York City, New York",Interpublic Group of Companies (The),Communication Services,IPG
+2000-12-05,"Mountain View, California",Intuit,Information Technology,INTU
+2008-06-02,"Sunnyvale, California",Intuitive Surgical,Health Care,ISRG
+2008-08-21,"Atlanta, Georgia",Invesco,Financials,IVZ
+2022-09-19,"Dallas, Texas",Invitation Homes,Real Estate,INVH
+2017-08-29,"Durham, North Carolina",IQVIA,Health Care,IQV
+2009-01-06,"Boston, Massachusetts",Iron Mountain,Real Estate,IRM
+2015-07-01,"Lowell, Arkansas",J.B. Hunt,Industrials,JBHT
+2023-12-18,"St. Petersburg, Florida",Jabil,Information Technology,JBL
+2018-11-13,"Monett, Missouri",Jack Henry & Associates,Financials,JKHY
+2007-10-26,"Dallas, Texas",Jacobs Solutions,Industrials,J
+1973-06-30,"New Brunswick, New Jersey",Johnson & Johnson,Health Care,JNJ
+2010-08-27,"Cork, Ireland",Johnson Controls,Industrials,JCI
+1975-06-30,"New York City, New York",JPMorgan Chase,Financials,JPM
+2006-06-02,"Sunnyvale, California",Juniper Networks,Information Technology,JNPR
+1989-09-11,"Chicago, Illinois",Kellanova,Consumer Staples,K
+2023-08-25,"Skillman, New Jersey",Kenvue,Consumer Staples,KVUE
+2022-06-21,"Burlington, Massachusetts",Keurig Dr Pepper,Consumer Staples,KDP
+1994-03-01,"Cleveland, Ohio",KeyCorp,Financials,KEY
+2018-11-06,"Santa Rosa, California",Keysight Technologies,Information Technology,KEYS
+1957-03-04,"Irving, Texas",Kimberly-Clark,Consumer Staples,KMB
+2006-04-04,"Jericho, New York",Kimco Realty,Real Estate,KIM
+2012-05-25,"Houston, Texas",Kinder Morgan,Energy,KMI
+2024-06-24,"New York City, New York",KKR,Financials,KKR
+1997-09-30,"Milpitas, California",KLA Corporation,Information Technology,KLAC
+2015-07-06,"Chicago, Illinois",Kraft Heinz,Consumer Staples,KHC
+1957-03-04,"Cincinnati, Ohio",Kroger,Consumer Staples,KR
+2008-09-22,"Melbourne, Florida",L3Harris,Industrials,LHX
+2004-11-01,"Burlington, North Carolina",LabCorp,Health Care,LH
+2012-06-29,"Fremont, California",Lam Research,Information Technology,LRCX
+2018-12-03,"Eagle, Idaho",Lamb Weston,Consumer Staples,LW
+2019-10-03,"Las Vegas, Nevada",Las Vegas Sands,Consumer Discretionary,LVS
+2019-08-09,"Reston, Virginia",Leidos,Industrials,LDOS
+2005-10-04,"Miami, Florida",Lennar,Consumer Discretionary,LEN
+2024-12-23,"Richardson, Texas",Lennox International,Industrials,LII
+1970-12-31,"Indianapolis, Indiana",Lilly (Eli),Health Care,LLY
+1992-07-01,"Guildford, United Kingdom",Linde plc,Materials,LIN
+2019-12-23,"Beverly Hills, California",Live Nation Entertainment,Communication Services,LYV
+2016-05-23,"Chicago, Illinois",LKQ Corporation,Consumer Discretionary,LKQ
+1957-03-04,"Bethesda, Maryland",Lockheed Martin,Industrials,LMT
+1995-05-31,"New York City, New York",Loews Corporation,Financials,L
+1984-02-29,"Mooresville, North Carolina",Lowe's,Consumer Discretionary,LOW
+2023-10-18,"Vancouver, Canada",Lululemon Athletica,Consumer Discretionary,LULU
+2012-09-05,"Rotterdam, Netherlands",LyondellBasell,Materials,LYB
+2004-02-23,"Buffalo, New York",M&T Bank,Financials,MTB
+2011-07-01,"Findlay, Ohio",Marathon Petroleum,Energy,MPC
+2019-07-01,"New York City, New York",MarketAxess,Financials,MKTX
+1998-05-29,"Bethesda, Maryland",Marriott International,Consumer Discretionary,MAR
+1987-08-31,"New York City, New York",Marsh McLennan,Financials,MMC
+2014-07-02,"Raleigh, North Carolina",Martin Marietta Materials,Materials,MLM
+1981-06-30,"Livonia, Michigan",Masco,Industrials,MAS
+2008-07-18,"Harrison, New York",Mastercard,Financials,MA
+2021-09-20,"Dallas, Texas",Match Group,Communication Services,MTCH
+2003-03-20,"Hunt Valley, Maryland",McCormick & Company,Consumer Staples,MKC
+1970-06-30,"Chicago, Illinois",McDonald's,Consumer Discretionary,MCD
+1999-01-13,"Irving, Texas",McKesson Corporation,Health Care,MCK
+1986-10-31,"Dublin, Ireland",Medtronic,Health Care,MDT
+1957-03-04,"Kenilworth, New Jersey",Merck & Co.,Health Care,MRK
+2013-12-23,"Menlo Park, California",Meta Platforms,Communication Services,META
+2000-12-11,"New York City, New York",MetLife,Financials,MET
+2016-09-06,"Columbus, Ohio",Mettler Toledo,Health Care,MTD
+2017-07-26,"Paradise, Nevada",MGM Resorts,Consumer Discretionary,MGM
+2007-09-07,"Chandler, Arizona",Microchip Technology,Information Technology,MCHP
+1994-09-27,"Boise, Idaho",Micron Technology,Information Technology,MU
+1994-06-01,"Redmond, Washington",Microsoft,Information Technology,MSFT
+2016-12-02,"Memphis, Tennessee",Mid-America Apartment Communities,Real Estate,MAA
+2021-07-21,"Cambridge, Massachusetts",Moderna,Health Care,MRNA
+2013-12-23,"Calhoun, Georgia",Mohawk Industries,Consumer Discretionary,MHK
+2022-03-02,"Long Beach, California",Molina Healthcare,Health Care,MOH
+1976-06-30,"Chicago, Illinois",Molson Coors Beverage Company,Consumer Staples,TAP
+2012-10-02,"Chicago, Illinois",Mondelez International,Consumer Staples,MDLZ
+2021-02-12,"Kirkland, Washington",Monolithic Power Systems,Information Technology,MPWR
+2012-06-28,"Corona, California",Monster Beverage,Consumer Staples,MNST
+1998-07-01,"New York City, New York",Moody's Corporation,Financials,MCO
+1993-07-29,"New York City, New York",Morgan Stanley,Financials,MS
+2011-09-26,"Tampa, Florida",Mosaic Company (The),Materials,MOS
+1957-03-04,"Chicago, Illinois",Motorola Solutions,Information Technology,MSI
+2018-04-04,"New York City, New York",MSCI,Financials,MSCI
+2008-10-22,"New York City, New York","Nasdaq, Inc.",Financials,NDAQ
+1999-06-25,"San Jose, California",NetApp,Information Technology,NTAP
+2010-12-20,"Los Gatos, California",Netflix,Communication Services,NFLX
+1969-06-30,"Denver, Colorado",Newmont,Materials,NEM
+2013-08-01,"New York City, New York",News Corp,Communication Services,NWSA
+2015-09-18,"New York City, New York",News Corp,Communication Services,NWS
+1976-06-30,"Juno Beach, Florida",NextEra Energy,Utilities,NEE
+1988-11-30,"Washington County, Oregon","Nike, Inc.",Consumer Discretionary,NKE
+2000-11-02,"Merrillville, Indiana",NiSource,Utilities,NI
+2022-02-15,"Westlake, Ohio",Nordson Corporation,Industrials,NDSN
+1957-03-04,"Atlanta, Georgia",Norfolk Southern Railway,Industrials,NSC
+1998-01-30,"Chicago, Illinois",Northern Trust,Financials,NTRS
+1957-03-04,"West Falls Church, Virginia",Northrop Grumman,Industrials,NOC
+2017-10-13,"Miami, Florida",Norwegian Cruise Line Holdings,Consumer Discretionary,NCLH
+2010-01-29,"Houston, Texas",NRG Energy,Utilities,NRG
+1985-04-30,"Charlotte, North Carolina",Nucor,Materials,NUE
+2001-11-30,"Santa Clara, California",Nvidia,Information Technology,NVDA
+2019-09-26,"Reston, Virginia","NVR, Inc.",Consumer Discretionary,NVR
+2021-03-22,"Eindhoven, Netherlands",NXP Semiconductors,Information Technology,NXPI
+2009-03-27,"Springfield, Missouri",O'Reilly Auto Parts,Consumer Discretionary,ORLY
+1957-03-04,"Houston, Texas",Occidental Petroleum,Energy,OXY
+2019-12-09,"Thomasville, North Carolina",Old Dominion,Industrials,ODFL
+1997-12-31,"New York City, New York",Omnicom Group,Communication Services,OMC
+2022-06-21,"Phoenix, Arizona",ON Semiconductor,Information Technology,ON
+2010-03-15,"Tulsa, Oklahoma",ONEOK,Energy,OKE
+1989-08-31,"Austin, Texas",Oracle Corporation,Information Technology,ORCL
+2020-04-03,"Farmington, Connecticut",Otis Worldwide,Industrials,OTIS
+1980-12-31,"Bellevue, Washington",Paccar,Industrials,PCAR
+2017-07-26,"Lake Forest, Illinois",Packaging Corporation of America,Materials,PKG
+2024-09-23,"Denver, Colorado",Palantir Technologies,Information Technology,PLTR
+2023-06-20,"Santa Clara, California",Palo Alto Networks,Information Technology,PANW
+1994-09-30,"New York City, New York",Paramount Global,Communication Services,PARA
+1985-11-30,"Cleveland, Ohio",Parker Hannifin,Industrials,PH
+1998-10-01,"Penfield, New York",Paychex,Industrials,PAYX
+2020-01-28,"Oklahoma City, Oklahoma",Paycom,Industrials,PAYC
+2015-07-20,"San Jose, California",PayPal,Financials,PYPL
+2012-10-01,"Worsley, United Kingdom",Pentair,Industrials,PNR
+1957-03-04,"Purchase, New York",PepsiCo,Consumer Staples,PEP
+1957-03-04,"New York City, New York",Pfizer,Health Care,PFE
+2022-10-03,"Oakland, California",PG&E Corporation,Utilities,PCG
+2008-03-31,"New York City, New York",Philip Morris International,Consumer Staples,PM
+2012-05-01,"Houston, Texas",Phillips 66,Energy,PSX
+1999-10-04,"Phoenix, Arizona",Pinnacle West,Utilities,PNW
+1988-04-30,"Pittsburgh, Pennsylvania",PNC Financial Services,Financials,PNC
+2020-10-07,"Covington, Louisiana",Pool Corporation,Consumer Discretionary,POOL
+1957-03-04,"Pittsburgh, Pennsylvania",PPG Industries,Materials,PPG
+2001-10-01,"Allentown, Pennsylvania",PPL Corporation,Utilities,PPL
+2002-07-22,"Des Moines, Iowa",Principal Financial Group,Financials,PFG
+1957-03-04,"Cincinnati, Ohio",Procter & Gamble,Consumer Staples,PG
+1997-08-04,"Mayfield Village, Ohio",Progressive Corporation,Financials,PGR
+2003-07-17,"San Francisco, California",Prologis,Real Estate,PLD
+2002-07-22,"Newark, New Jersey",Prudential Financial,Financials,PRU
+1957-03-04,"Newark, New Jersey",Public Service Enterprise Group,Utilities,PEG
+2021-04-20,"Boston, Massachusetts",PTC Inc.,Information Technology,PTC
+2005-08-19,"Glendale, California",Public Storage,Real Estate,PSA
+1984-04-30,"Atlanta, Georgia",PulteGroup,Consumer Discretionary,PHM
+2009-07-01,"Houston, Texas",Quanta Services,Industrials,PWR
+1999-07-22,"San Diego, California",Qualcomm,Information Technology,QCOM
+2002-12-12,"Secaucus, New Jersey",Quest Diagnostics,Health Care,DGX
+2007-02-02,"New York City, New York",Ralph Lauren Corporation,Consumer Discretionary,RL
+2017-03-20,"St. Petersburg, Florida",Raymond James Financial,Financials,RJF
+1957-03-04,"Waltham, Massachusetts",RTX Corporation,Industrials,RTX
+2015-04-07,"San Diego, California",Realty Income,Real Estate,O
+2017-03-02,Jacksonville,Regency Centers,Real Estate,REG
+2013-05-01,"Tarrytown, New York",Regeneron Pharmaceuticals,Health Care,REGN
+1998-08-28,"Birmingham, Alabama",Regions Financial Corporation,Financials,RF
+2008-12-05,"Phoenix, Arizona",Republic Services,Industrials,RSG
+2017-07-26,"San Diego, California",ResMed,Health Care,RMD
+1985-05-31,"Waltham, Massachusetts",Revvity,Health Care,RVTY
+2000-03-12,"Milwaukee, Wisconsin",Rockwell Automation,Industrials,ROK
+2018-10-01,"Atlanta, Georgia","Rollins, Inc.",Industrials,ROL
+2009-12-23,"Sarasota, Florida",Roper Technologies,Information Technology,ROP
+2009-12-21,"Dublin, California",Ross Stores,Consumer Discretionary,ROST
+2014-12-05,"Miami, Florida",Royal Caribbean Group,Consumer Discretionary,RCL
+1957-03-04,"New York City, New York",S&P Global,Financials,SPGI
+2008-09-15,"San Francisco, California",Salesforce,Information Technology,CRM
+2017-09-01,"Boca Raton, Florida",SBA Communications,Real Estate,SBAC
+1957-03-04,"Houston, Texas",Schlumberger,Energy,SLB
+2012-07-02,"Dublin, Ireland",Seagate Technology,Information Technology,STX
+2017-03-17,"San Diego, California",Sempra,Utilities,SRE
+2019-11-21,"Santa Clara, California",ServiceNow,Information Technology,NOW
+1964-06-30,"Cleveland, Ohio",Sherwin-Williams,Materials,SHW
+2002-06-26,"Indianapolis, Indiana",Simon Property Group,Real Estate,SPG
+2015-03-12,"Irvine, California",Skyworks Solutions,Information Technology,SWKS
+2008-11-06,"Orrville, Ohio",J.M. Smucker Company (The),Consumer Staples,SJM
+2024-07-08,"Dublin, Ireland",Smurfit WestRock,Materials,SW
+1982-09-30,"Kenosha, Wisconsin",Snap-on,Industrials,SNA
+2024-04-01,"Saint Paul, Minnesota",Solventum,Health Care,SOLV
+1957-03-04,"Atlanta, Georgia",Southern Company,Utilities,SO
+1994-07-01,"Dallas, Texas",Southwest Airlines,Industrials,LUV
+1982-09-30,"New Britain, Connecticut",Stanley Black & Decker,Industrials,SWK
+2000-06-07,"Seattle, Washington",Starbucks,Consumer Discretionary,SBUX
+2003-03-14,"Boston, Massachusetts",State Street Corporation,Financials,STT
+2022-12-22,"Fort Wayne, Indiana",Steel Dynamics,Materials,STLD
+2019-12-23,"Dublin, Ireland",Steris,Health Care,STE
+2000-12-12,"Kalamazoo, Michigan",Stryker Corporation,Health Care,SYK
+2024-03-18,"San Jose, California",Supermicro,Information Technology,SMCI
+2015-11-18,"Stamford, Connecticut",Synchrony Financial,Financials,SYF
+2017-03-16,"Sunnyvale, California",Synopsys,Information Technology,SNPS
+1986-12-31,"Houston, Texas",Sysco,Consumer Staples,SYY
+2019-07-15,"Bellevue, Washington",T-Mobile US,Communication Services,TMUS
+2019-07-29,"Baltimore, Maryland",T. Rowe Price,Financials,TROW
+2018-03-19,"New York City, New York",Take-Two Interactive,Communication Services,TTWO
+2004-09-01,"New York City, New York","Tapestry, Inc.",Consumer Discretionary,TPR
+2022-10-12,"Houston, Texas",Targa Resources,Energy,TRGP
+1976-12-31,"Minneapolis, Minnesota",Target Corporation,Consumer Staples,TGT
+2011-10-17,"Galway, Ireland",TE Connectivity,Information Technology,TEL
+2020-06-22,"Thousand Oaks, California",Teledyne Technologies,Information Technology,TDY
+2019-01-18,"Wayne, Pennsylvania",Teleflex,Health Care,TFX
+2020-09-21,"North Reading, Massachusetts",Teradyne,Information Technology,TER
+2020-12-21,"Austin, Texas","Tesla, Inc.",Consumer Discretionary,TSLA
+2001-03-12,"Dallas, Texas",Texas Instruments,Information Technology,TXN
+2024-11-26,"Dallas, Texas",Texas Pacific Land Corporation,Energy,TPL
+1978-12-31,"Providence, Rhode Island",Textron,Industrials,TXT
+2004-08-03,"Waltham, Massachusetts",Thermo Fisher Scientific,Health Care,TMO
+1985-09-30,"Framingham, Massachusetts",TJX Companies,Consumer Discretionary,TJX
+2014-01-24,"Brentwood, Tennessee",Tractor Supply,Consumer Discretionary,TSCO
+2010-11-17,"Dublin, Ireland",Trane Technologies,Industrials,TT
+2016-06-03,"Cleveland, Ohio",TransDigm Group,Industrials,TDG
+2002-08-21,"New York City, New York",Travelers Companies (The),Financials,TRV
+2021-01-21,"Westminster, Colorado",Trimble Inc.,Information Technology,TRMB
+1997-12-04,"Charlotte, North Carolina",Truist Financial,Financials,TFC
+2020-06-22,"Plano, Texas",Tyler Technologies,Information Technology,TYL
+2005-08-10,"Springdale, Arkansas",Tyson Foods,Consumer Staples,TSN
+1999-11-01,"Minneapolis, Minnesota",U.S. Bancorp,Financials,USB
+2023-12-18,"San Francisco, California",Uber,Industrials,UBER
+2016-03-07,"Highlands Ranch, Colorado","UDR, Inc.",Real Estate,UDR
+2016-04-18,"Bolingbrook, Illinois",Ulta Beauty,Consumer Discretionary,ULTA
+1957-03-04,"Omaha, Nebraska",Union Pacific Corporation,Industrials,UNP
+2015-09-03,"Chicago, Illinois",United Airlines Holdings,Industrials,UAL
+2002-07-22,"Sandy Springs, Georgia",United Parcel Service,Industrials,UPS
+2014-09-20,"Stamford, Connecticut",United Rentals,Industrials,URI
+1994-07-01,"Minnetonka, Minnesota",UnitedHealth Group,Health Care,UNH
+2014-09-20,"King of Prussia, Pennsylvania",Universal Health Services,Health Care,UHS
+2002-12-20,"San Antonio, Texas",Valero Energy,Energy,VLO
+2009-03-04,"Chicago, Illinois",Ventas,Real Estate,VTR
+2023-10-02,"Waltham, Massachusetts",Veralto,Industrials,VLTO
+2006-02-01,"Dulles, Virginia",Verisign,Information Technology,VRSN
+2015-10-08,"Jersey City, New Jersey",Verisk Analytics,Industrials,VRSK
+1983-11-30,"New York City, New York",Verizon,Communication Services,VZ
+2013-09-23,"Boston, Massachusetts",Vertex Pharmaceuticals,Health Care,VRTX
+2004-04-23,"Pittsburgh, Pennsylvania",Viatris,Health Care,VTRS
+2022-06-08,"New York City, New York",Vici Properties,Real Estate,VICI
+2009-12-21,"San Francisco, California",Visa Inc.,Financials,V
+2024-05-08,"Irving, Texas",Vistra Corp,Utilities,VST
+1999-06-30,"Birmingham, Alabama",Vulcan Materials Company,Materials,VMC
+2019-12-05,"Greenwich, Connecticut",W. R. Berkley Corporation,Financials,WRB
+1981-06-30,"Lake Forest, Illinois",W. W. Grainger,Industrials,GWW
+2019-02-27,"Pittsburgh, Pennsylvania",Wabtec,Industrials,WAB
+1979-12-31,"Deerfield, Illinois",Walgreens Boots Alliance,Consumer Staples,WBA
+1982-08-31,"Bentonville, Arkansas",Walmart,Consumer Staples,WMT
+1976-06-30,"Burbank, California",Walt Disney Company (The),Communication Services,DIS
+2022-04-11,"New York City, New York",Warner Bros. Discovery,Communication Services,WBD
+1998-08-31,"Houston, Texas",Waste Management,Industrials,WM
+2002-01-02,"Milford, Massachusetts",Waters Corporation,Health Care,WAT
+2008-10-31,"Milwaukee, Wisconsin",WEC Energy Group,Utilities,WEC
+1976-06-30,"San Francisco, California",Wells Fargo,Financials,WFC
+2009-01-30,"Toledo, Ohio",Welltower,Real Estate,WELL
+2020-05-22,"Exton, Pennsylvania",West Pharmaceutical Services,Health Care,WST
+2009-07-01,"San Jose, California",Western Digital,Information Technology,WDC
+1979-10-01,"Seattle, Washington",Weyerhaeuser,Real Estate,WY
+1975-03-31,"Tulsa, Oklahoma",Williams Companies,Energy,WMB
+2016-01-05,"London, United Kingdom",Willis Towers Watson,Financials,WTW
+2024-12-23,"Pleasanton, California","Workday, Inc.",Information Technology,WDAY
+2008-11-14,"Paradise, Nevada",Wynn Resorts,Consumer Discretionary,WYNN
+1957-03-04,"Minneapolis, Minnesota",Xcel Energy,Utilities,XEL
+2011-11-01,"White Plains, New York",Xylem Inc.,Industrials,XYL
+1997-10-06,"Louisville, Kentucky",Yum! Brands,Consumer Discretionary,YUM
+2019-12-23,"Lincolnshire, Illinois",Zebra Technologies,Information Technology,ZBRA
+2001-08-07,"Warsaw, Indiana",Zimmer Biomet,Health Care,ZBH
+2013-06-21,"Parsippany, New Jersey",Zoetis,Health Care,ZTS
